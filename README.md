@@ -11,7 +11,7 @@ $ echo "Hello World!" > README.md
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=gabrielcosi&hide=issues&count_private=true&show_icons=true&include_all_commits=true&theme=gotham"/>
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielcosi&layout=compact&theme=gotham&hide=java" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielcosi&layout=compact&theme=gotham&hide=java,kotlin" />
 </a>
 
 <!--
